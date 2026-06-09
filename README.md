@@ -1,4 +1,4 @@
-# 👋 Opa, eu sou o Fernando (Diminhoo)
+# 👋 Opa, eu sou o Fernando (Fergaabi)
 
 🎮 Curioso por tecnologia, jogos e como as coisas funcionam por baixo dos panos.  
 🐍 Estudando e desenvolvendo projetos em **Python**, principalmente jogos, automações e sistemas interativos.  
